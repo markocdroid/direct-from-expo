@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "privileged-yellow-soda",
-    "slug": "snack-4a65483f-abbf-4cae-a192-854639b8aaba",
-    "version": "1.0.0",
+    "name": "direct-from-expo",
+    "slug": "direct-from-expo-4a65483f-abbf-4cae-a192-854639b8aaba",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
